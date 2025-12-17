@@ -2,7 +2,7 @@
 
 This repository contains an end-to-end predictive analytics project built using Python and Machine Learning techniques. The project focuses on analyzing a real-world mobile reviews dataset to extract insights and build predictive models using both regression and classification approaches.
 
-📁 Project Overview
+📁 Project Overvie
 
 The goal of this project is to:
 
